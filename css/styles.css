@@ -24,7 +24,7 @@ text-transform:uppercase;
 }
 
 .logo-part {
-    color:#f4f4fd;
+    color:#2e2f42;
 }
 
 .nav-link {
@@ -176,3 +176,17 @@ background-color: #2E2F42;
     letter-spacing:0.02em;
     color:#f4f4fd;
 }
+
+.footer-logo {
+color: #4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    }
+
+    .footer-logo-part {
+    color: #f4f4fd;
+    }
